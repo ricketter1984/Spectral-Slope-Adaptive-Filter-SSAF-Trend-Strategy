@@ -314,7 +314,7 @@ For questions and support:
 
 For questions or collaboration:
 - GitHub Issues: [Project Issues](https://github.com/your-repo/issues)
-- Email: your-email@example.com
+- Email: rick84etter@gmail.com or et1209534@email.ccbcmd.edu
 
 ---
 
