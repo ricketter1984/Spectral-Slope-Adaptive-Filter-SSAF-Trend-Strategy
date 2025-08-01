@@ -1,0 +1,42 @@
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Data visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Data loading
+yfinance>=0.1.70
+requests>=2.25.0
+
+# Interactive dashboard
+streamlit>=1.20.0
+
+# Jupyter notebook
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Machine Learning (for enhanced features)
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+lightgbm>=3.3.0
+
+# Technical Analysis
+ta-lib>=0.4.0
+ta>=0.7.0
+
+# Optional: Financial data providers
+# alpha_vantage>=2.3.0
+# quandl>=3.7.0
+
+# Development and testing
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
